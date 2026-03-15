@@ -129,7 +129,7 @@ const RESUME = {
     { year: "2023", role: "Recipe Recommendation Application", company: "Python Development" },
     { year: "In Dev", role: "Interactive 3D Museum Portfolio", company: "Immersive Web Experience" },
   ],
-  downloadUrl: "/FAYAZ.docx",
+  downloadUrl: "/Fayaz.docx",
   lastUpdated: "March 2026",
 }
 
