@@ -29,6 +29,12 @@ export const metadata: Metadata = {
   },
   description:
     "CS undergraduate at Osmania University specialising in AI, ML, and interactive web systems. Building 3D web experiences, React applications, and Python-driven ML pipelines.",
+
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon-16x16.svg",
+    apple: "/apple-touch-icon.svg,"
+  },
   keywords: [
     "Syed Fayaz Mehdi",
     "Fayaz",

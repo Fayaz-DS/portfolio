@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="silver" x1="0.1" y1="0" x2="0.4" y2="1">
+      <stop offset="0%"   stop-color="#f4f4fc"/>
+      <stop offset="20%"  stop-color="#d0d0e0"/>
+      <stop offset="45%"  stop-color="#888898"/>
+      <stop offset="68%"  stop-color="#c8c8d8"/>
+      <stop offset="100%" stop-color="#6c6c7c"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="6" fill="#0d0d0d"/>
+  <rect width="32" height="32" rx="6" fill="none" stroke="#a0a0a8" stroke-width="0.6" opacity="0.4"/>
+  <text x="16" y="26" font-family="Palatino Linotype, Palatino, Book Antiqua, serif" font-size="28" font-weight="400" font-style="italic" fill="url(#silver)" text-anchor="middle">F</text>
+</svg>
