@@ -65,7 +65,6 @@ return(
   }}
 >
 
-  {/* 👇 LOADER — added here */}
   <Loader />
 
   <div
