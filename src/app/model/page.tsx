@@ -7,6 +7,7 @@ import * as THREE from "three"
 import EyeModel from "../components/model/EyeModel"
 import CornerBoxes from "../components/model/CornerBoxes"
 import FallingBeams from "../components/model/FallingBeams"
+import Loader from "./Loader"
 
 function CameraController() {
   const { camera } = useThree()
@@ -63,6 +64,9 @@ return(
     background: '#09080a'
   }}
 >
+
+  {/* 👇 LOADER — added here */}
+  <Loader />
 
   <div
     className="absolute inset-0 pointer-events-none"
