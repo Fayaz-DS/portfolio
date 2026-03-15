@@ -914,7 +914,7 @@ export default function CornerBoxes({ hovered, setHovered, active, setActive }: 
             style={finalPosStyle}
             className={`
               pointer-events-auto fixed w-28 h-28 sm:w-40 sm:h-40 md:w-64 md:h-64 m-0 cursor-pointer
-              relative overflow-hidden group
+              overflow-hidden group
               border transition-all duration-700 ease-out
               flex flex-col items-center justify-center gap-2
               ${isHov
